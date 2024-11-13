@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projectC#Rupp\\cafeCoffee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{622A8A3A-EC7C-417D-921C-EC573E19F00F}|cafeCoffee.csproj|D:\\projectC#Rupp\\cafeCoffee\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{622A8A3A-EC7C-417D-921C-EC573E19F00F}|cafeCoffee.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622A8A3A-EC7C-417D-921C-EC573E19F00F}|cafeCoffee.csproj|D:\\projectC#Rupp\\cafeCoffee\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{622A8A3A-EC7C-417D-921C-EC573E19F00F}|cafeCoffee.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622A8A3A-EC7C-417D-921C-EC573E19F00F}|cafeCoffee.csproj|d:\\projectc#rupp\\cafecoffee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{622A8A3A-EC7C-417D-921C-EC573E19F00F}|cafeCoffee.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622A8A3A-EC7C-417D-921C-EC573E19F00F}|cafeCoffee.csproj|D:\\projectC#Rupp\\cafeCoffee\\addchashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{622A8A3A-EC7C-417D-921C-EC573E19F00F}|cafeCoffee.csproj|solutionrelative:addchashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622A8A3A-EC7C-417D-921C-EC573E19F00F}|cafeCoffee.csproj|D:\\projectC#Rupp\\cafeCoffee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622A8A3A-EC7C-417D-921C-EC573E19F00F}|cafeCoffee.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622A8A3A-EC7C-417D-921C-EC573E19F00F}|cafeCoffee.csproj|D:\\projectC#Rupp\\cafeCoffee\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{622A8A3A-EC7C-417D-921C-EC573E19F00F}|cafeCoffee.csproj|solutionrelative:products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\projectC#Rupp\\cafeCoffee\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\projectC#Rupp\\cafeCoffee\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswEgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:46:18.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products.cs [Design]",
+              "DocumentMoniker": "D:\\projectC#Rupp\\cafeCoffee\\Products.cs",
+              "RelativeDocumentMoniker": "Products.cs",
+              "ToolTip": "D:\\projectC#Rupp\\cafeCoffee\\Products.cs [Design]",
+              "RelativeToolTip": "Products.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:45:18.71Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddChashier.cs [Design]",
+              "DocumentMoniker": "D:\\projectC#Rupp\\cafeCoffee\\AddChashier.cs",
+              "RelativeDocumentMoniker": "AddChashier.cs",
+              "ToolTip": "D:\\projectC#Rupp\\cafeCoffee\\AddChashier.cs [Design]",
+              "RelativeToolTip": "AddChashier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:44:02.823Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\projectC#Rupp\\cafeCoffee\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "D:\\projectC#Rupp\\cafeCoffee\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:42:14.257Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\projectC#Rupp\\cafeCoffee\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\projectC#Rupp\\cafeCoffee\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:08:15.814Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "D:\\projectC#Rupp\\cafeCoffee\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "D:\\projectC#Rupp\\cafeCoffee\\Customer.cs [Design]",
+              "RelativeToolTip": "Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:45:52.947Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+D:\projectC#Rupp\cafeCoffee\bin\Debug\cafeCoffee.exe.config
+D:\projectC#Rupp\cafeCoffee\bin\Debug\cafeCoffee.exe
+D:\projectC#Rupp\cafeCoffee\bin\Debug\cafeCoffee.pdb
+D:\projectC#Rupp\cafeCoffee\bin\Debug\Guna.UI2.dll
+D:\projectC#Rupp\cafeCoffee\obj\Debug\cafeCoffee.csproj.AssemblyReference.cache
+D:\projectC#Rupp\cafeCoffee\obj\Debug\cafeCoffee.AddChashier.resources
+D:\projectC#Rupp\cafeCoffee\obj\Debug\cafeCoffee.Customer.resources
+D:\projectC#Rupp\cafeCoffee\obj\Debug\cafeCoffee.Dashboard.resources
+D:\projectC#Rupp\cafeCoffee\obj\Debug\cafeCoffee.Form1.resources
+D:\projectC#Rupp\cafeCoffee\obj\Debug\cafeCoffee.Products.resources
+D:\projectC#Rupp\cafeCoffee\obj\Debug\cafeCoffee.Properties.Resources.resources
+D:\projectC#Rupp\cafeCoffee\obj\Debug\cafeCoffee.csproj.GenerateResource.cache
+D:\projectC#Rupp\cafeCoffee\obj\Debug\cafeCoffee.csproj.CoreCompileInputs.cache
+D:\projectC#Rupp\cafeCoffee\obj\Debug\cafeCoffee.csproj.Up2Date
+D:\projectC#Rupp\cafeCoffee\obj\Debug\cafeCoffee.exe
+D:\projectC#Rupp\cafeCoffee\obj\Debug\cafeCoffee.pdb
